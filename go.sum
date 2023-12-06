@@ -128,6 +128,8 @@ github.com/aws/aws-sdk-go-v2/service/sts v1.26.1 h1:K33V7L0XDdb23FMOZySr8bon1jou
 github.com/aws/aws-sdk-go-v2/service/sts v1.26.1/go.mod h1:YtXUl/sfnS06VksYhr855hTQf2HphfT1Xv/EwuzbPjg=
 github.com/aws/aws-sdk-go-v2/service/sts v1.26.2 h1:fFrLsy08wEbAisqW3KDl/cPHrF43GmV79zXB9EwJiZw=
 github.com/aws/aws-sdk-go-v2/service/sts v1.26.2/go.mod h1:7Ld9eTqocTvJqqJ5K/orbSDwmGcpRdlDiLjz2DO+SL8=
+github.com/aws/aws-sdk-go-v2/service/sts v1.26.3 h1:KfREzajmHCSYjCaMRtdLr9boUMA7KPpoPApitPlbNeo=
+github.com/aws/aws-sdk-go-v2/service/sts v1.26.3/go.mod h1:7Ld9eTqocTvJqqJ5K/orbSDwmGcpRdlDiLjz2DO+SL8=
 github.com/aws/smithy-go v1.17.0 h1:wWJD7LX6PBV6etBUwO0zElG0nWN9rUhp0WdYeHSHAaI=
 github.com/aws/smithy-go v1.17.0/go.mod h1:NukqUGpCZIILqqiV0NIjeFh24kd/FAa4beRb6nbIUPE=
 github.com/aws/smithy-go v1.18.0 h1:uWqjOwPEqjzmQXpwm/8cwUWTmFhT9Ypc8tECXrshDsI=
