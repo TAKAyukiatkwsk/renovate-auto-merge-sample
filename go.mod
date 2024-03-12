@@ -1,6 +1,6 @@
 module github.com/TAKAyukiatkwsk/renovate-auto-merge-sample
 
-go 1.21.1
+go 1.22.1
 
 require (
 	github.com/aws/aws-sdk-go-v2 v1.23.5
